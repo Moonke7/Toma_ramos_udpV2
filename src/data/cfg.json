@@ -1,0 +1,2333 @@
+{
+  "CFG2014": [
+    {
+      "id_ramo": "CFG2014",
+      "nombre": "PROBLEMÁTICAS CONTEMPORÁNEAS DE LA SEXUA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MI", "", "B-LEARNING FG01"],
+        ["MI", "", "B-LEARNING FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2014_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "MEDALLA TANIA"
+    }
+  ],
+  "": [
+    {
+      "id_ramo": "",
+      "nombre": "",
+      "creditos_asignatura": "nan",
+      "asignatura_referenciada": "",
+      "seccion": "",
+      "horarios": [],
+      "sede": "",
+      "categoria_paquete": "",
+      "paquete": "",
+      "vacantes_paquete": "nan",
+      "profesor": ""
+    }
+  ],
+  "CFG2027": [
+    {
+      "id_ramo": "CFG2027",
+      "nombre": "LA CIUDAD CÓMO ESPACIO INCLUSIVO",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "", "CÁTEDRA FG 01"],
+        ["LU", "", "CÁTEDRA FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2027_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "GUTIERREZ VOLKER AMAURY"
+    }
+  ],
+  "CFG2050": [
+    {
+      "id_ramo": "CFG2050",
+      "nombre": "CUENTO NORTEAMERICANO CONTEMPORÁNEO: REL",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "C", "CÁTEDRA FG01"],
+        ["JU", "C", "CÁTEDRA FG01"],
+        ["MA", "C", "CÁTEDRA FG01"],
+        ["JU", "C", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2050_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "CONTRERAS GONZALO"
+    }
+  ],
+  "CFG2059": [
+    {
+      "id_ramo": "CFG2059",
+      "nombre": "POESIA INDIGENA LATINOAMERICANA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "B", "CÁTEDRA FG01"],
+        ["MI", "B", "CÁTEDRA FG01"],
+        ["MA", "B", "CÁTEDRA FG01"],
+        ["MI", "B", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2059_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "HUENUN JAIME LUIS"
+    }
+  ],
+  "CFG2066": [
+    {
+      "id_ramo": "CFG2066",
+      "nombre": "ORIGEN Y EVOLUCIÓN DE LA VIDA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "", "CÁTEDRA FG01"],
+        ["VI", "", "CÁTEDRA FG01"],
+        ["LU", "", "CÁTEDRA FG01"],
+        ["VI", "", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2066_FG01",
+      "vacantes_paquete": "45.0",
+      "profesor": "PEREZ DANIELA ANDREA"
+    }
+  ],
+  "CFG2086": [
+    {
+      "id_ramo": "CFG2086",
+      "nombre": "LA GUERRA FRIA ORIGEN Y FORMACION DEL MU",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "E", "CÁTEDRA FG01"],
+        ["JU", "E", "CÁTEDRA FG01"],
+        ["LU", "E", "CÁTEDRA FG01"],
+        ["JU", "E", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2086_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "SINGH DOMINIQUE"
+    }
+  ],
+  "CFG2098": [
+    {
+      "id_ramo": "CFG2098",
+      "nombre": "REVOLUCIONES DE LA HISTORIA CONTEMPORÁNE",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["JU", "", "B-LEARNING FG01"],
+        ["JU", "", "B-LEARNING FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2098_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "ÁNGEL LUNA"
+    }
+  ],
+  "CFG2135": [
+    {
+      "id_ramo": "CFG2135",
+      "nombre": "B-LEARNING EE.UU: SU VISIÓN DE LA LIBERT",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "", "B-LEARNING FG01"],
+        ["LU", "", "B-LEARNING FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2135_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "RODRIGUEZ ROSARIO CAROLINA"
+    }
+  ],
+  "CFG2149": [
+    {
+      "id_ramo": "CFG2149",
+      "nombre": "LA ERA DE LAS VANGUARDIAS HISTÓRICAS:ART",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["JU", "", "B-LEARNING FG01"],
+        ["JU", "", "B-LEARNING FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2149_CB01",
+      "vacantes_paquete": "40.0",
+      "profesor": "SANTIBAÑEZ MARA JIMENA"
+    }
+  ],
+  "CFG2150": [
+    {
+      "id_ramo": "CFG2150",
+      "nombre": "SOCIEDAD Y MEDIOS DE COMUNICACIÓN",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "D", "CÁTEDRA FG 01"],
+        ["JU", "D", "CÁTEDRA FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2150_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "CORREA MARIA XIMENA"
+    }
+  ],
+  "CFG2158": [
+    {
+      "id_ramo": "CFG2158",
+      "nombre": "TÓPICOS DE POLÍTICA LATINOAMERICANA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "D", "CÁTEDRA FG01 (AMERICAN UNIVERSITY)"],
+        ["MI", "D", "CÁTEDRA FG01 (AMERICAN UNIVERSITY)"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2158_FG01",
+      "vacantes_paquete": "10.0",
+      "profesor": "JORQUERA CONSTANZA FERNAND"
+    }
+  ],
+  "CFG2166": [
+    {
+      "id_ramo": "CFG2166",
+      "nombre": "MÚSICA LATINOAMERICANA Y MOVIMIENTOS SOC",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "G", "CÁTEDRA FG01"],
+        ["MI", "G", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2166_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "MARTINEZ FELIPE ANDRES"
+    }
+  ],
+  "CFG2177": [
+    {
+      "id_ramo": "CFG2177",
+      "nombre": "B-LEARNING IMÁGEN, FOTOGRAFÍA Y MEMORIA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["JU", "", "B-LEARNING FG01"],
+        ["JU", "", "B-LEARNING FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2177_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "SALGADO SAMUEL EDUARDO"
+    }
+  ],
+  "CFG2189": [
+    {
+      "id_ramo": "CFG2189",
+      "nombre": "DERECHOS DE LAS MINORÍAS E INTERCULTURAL",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "G", "CÁTEDRA FG01"],
+        ["JU", "G", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2189_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "MILLACURA CLAUDIO VICENTE"
+    }
+  ],
+  "CFG2198": [
+    {
+      "id_ramo": "CFG2198",
+      "nombre": "B-LEARNIN EL SIST. SOLAR Y LA BÚSQ.",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["JU", "", "CATEDRA B-LEARNING 01"]],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2198_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "CIEZA LUCAS ALEJO"
+    }
+  ],
+  "CFG2200": [
+    {
+      "id_ramo": "CFG2200",
+      "nombre": "LAS ESCUELAS DE TEORÍA ECONÓMICA EN EL S",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "D", "CÁTEDRA FG01"],
+        ["MI", "D", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2200_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "ABBOTT FELIPE ALBERTO"
+    }
+  ],
+  "CFG2202": [
+    {
+      "id_ramo": "CFG2202",
+      "nombre": "DESIGUALDAD:DEFINICIÓN,MEDICIÓN Y CASOS",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["MA", "", "CÁTEDRA FG01"]],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2202_FG01",
+      "vacantes_paquete": "45.0",
+      "profesor": "PUENTES GERMAN ADOLFO"
+    }
+  ],
+  "CFG2203": [
+    {
+      "id_ramo": "CFG2203",
+      "nombre": "EDUCACIÓN SUPERIOR EN CHILE: DESAFÍOS Y",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "C", "CÁTEDRA FG 01"],
+        ["JU", "C", "CÁTEDRA FG 01"],
+        ["LU", "C", "CÁTEDRA FG 01"],
+        ["JU", "C", "CÁTEDRA FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2203_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "MONTT PEDRO NOLASCO"
+    }
+  ],
+  "CFG2208": [
+    {
+      "id_ramo": "CFG2208",
+      "nombre": "EL DOCUMENTAL EN AMÉRICA LATINA: UN RELA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["MA", "", "CÁTEDRA FG01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2208_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "ROBLES GILBERTO ALFREDO"
+    }
+  ],
+  "CFG2209": [
+    {
+      "id_ramo": "CFG2209",
+      "nombre": "CONSTRUCCIÓN SOCIAL DE LA ENFERMEDAD:CI",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["VI", "", "B-LEARNING FG01"],
+        ["VI", "", "B-LEARNING FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2209_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "VILLEGAS CRISTÓBAL PATRICIO"
+    }
+  ],
+  "CFG2222": [
+    {
+      "id_ramo": "CFG2222",
+      "nombre": "CIUDADES SUSTENTABLES:DESAFÍOS EN AMCA.",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MI", "", "CÁTEDRA FG 01"],
+        ["MI", "", "CÁTEDRA FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2222_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "SCHMIDT FRANCISCO JAVIER"
+    },
+    {
+      "id_ramo": "CFG2222",
+      "nombre": "CIUDADES SUSTENTABLES:DESAFÍOS EN AMCA.",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 2",
+      "horarios": [
+        ["MI", "", "CÁTEDRA AMERICAN UNIVERSITY SEC 02"],
+        ["MI", "", "CÁTEDRA AMERICAN UNIVERSITY SEC 02"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2222_FG02",
+      "vacantes_paquete": "10.0",
+      "profesor": "SCHMIDT FRANCISCO JAVIER"
+    }
+  ],
+  "CFG2224": [
+    {
+      "id_ramo": "CFG2224",
+      "nombre": "POBLACIÓN,DESARROLLO Y POLÍTICAS PÚBL",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MI", "", "B-LEARNING FG01"],
+        ["MI", "", "B-LEARNING FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2224_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "SINGH DOMINIQUE"
+    }
+  ],
+  "CFG2239": [
+    {
+      "id_ramo": "CFG2239",
+      "nombre": "POESÍA LATINOAMERICANA CONTEMPORÁNEA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "F", "CÁTEDRA FG01"],
+        ["JU", "F", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2239_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "HERNÁNDEZ HÉCTOR"
+    }
+  ],
+  "CFG2240": [
+    {
+      "id_ramo": "CFG2240",
+      "nombre": "MICROORGANISMOS: ORÍGENES Y PANDEMIAS AC",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MI", "G", "CÁTEDRA FG01"],
+        ["VI", "G", "CÁTEDRA FG01"],
+        ["MI", "G", "CÁTEDRA FG01"],
+        ["VI", "G", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2240_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "NAVARRO MYRIAM ANDREA"
+    }
+  ],
+  "CFG2244": [
+    {
+      "id_ramo": "CFG2244",
+      "nombre": "CIUDADANÍA , POBREZA E INNOVACIÓN SOCIAL",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["MA", "", "B-LEARNING FG01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2244_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "GUERRA OSCAR   PATRICIO"
+    }
+  ],
+  "CFG2253": [
+    {
+      "id_ramo": "CFG2253",
+      "nombre": "CREYENTES, AGNÓSTICOS Y ATEOS EN LA ERA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "", "CÁTEDRA FG01"],
+        ["MI", "", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2253_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "OTERO EDISON HERMES"
+    },
+    {
+      "id_ramo": "CFG2253",
+      "nombre": "CREYENTES, AGNÓSTICOS Y ATEOS EN LA ERA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 2",
+      "horarios": [
+        ["MA", "", "CÁTEDRA FG02"],
+        ["MI", "", "CÁTEDRA FG02"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2253_FG02",
+      "vacantes_paquete": "45.0",
+      "profesor": "OTERO EDISON HERMES"
+    }
+  ],
+  "CFG2273": [
+    {
+      "id_ramo": "CFG2273",
+      "nombre": "ASTRONOMÍA MODERNA, UNA PERSPECTIVA CÓSM",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["VI", "", "B-LEARNING 01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2273_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "ARAVENA MANUEL ALEJANDRO"
+    }
+  ],
+  "CFG2278": [
+    {
+      "id_ramo": "CFG2278",
+      "nombre": "MOVIMIENTOS SOCIALES EN LA HISTORIA RECI",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "C", "CÁTEDRA FG01 (AMERICAN UNIVERSITY)"],
+        ["MI", "C", "CÁTEDRA FG01 (AMERICAN UNIVERSITY)"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2278_FG01",
+      "vacantes_paquete": "10.0",
+      "profesor": "GODOY EDUARDO ANDRES"
+    }
+  ],
+  "CFG2285": [
+    {
+      "id_ramo": "CFG2285",
+      "nombre": "EL SIGLO XX: TRANSFORMACIONES Y CONFLICT",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["MI", "", "CÁTEDRA FG01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2285_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "DITTBORN MAGDALENA"
+    }
+  ],
+  "CFG5005": [
+    {
+      "id_ramo": "CFG5005",
+      "nombre": "SALUD PÚBLICA Y POLÍTICAS PÚBLICAS",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "A", "B-LEARNING FG01"],
+        ["JU", "A", "B-LEARNING FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5005_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "MARTINEZ PAULINA ALEJANDRA"
+    }
+  ],
+  "CFG5006": [
+    {
+      "id_ramo": "CFG5006",
+      "nombre": "B-LEARNING HIS. DEL DOCUMENTAL CONTEM.",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["MA", "", "B-LEARNING FG01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5006_CB01",
+      "vacantes_paquete": "43.0",
+      "profesor": "LIENDO DANIELA ANDREA"
+    }
+  ],
+  "EDE1025": [
+    {
+      "id_ramo": "EDE1025",
+      "nombre": "ENGLISH SPEAKING COUNTRIES CULTURE I",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "", "CÁTEDRA 01"],
+        ["LU", "", "CÁTEDRA 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "EDE1025_VC1",
+      "vacantes_paquete": "28.0",
+      "profesor": "TORRELLAS LUSVIC"
+    },
+    {
+      "id_ramo": "EDE1025",
+      "nombre": "ENGLISH SPEAKING COUNTRIES CULTURE I",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 2",
+      "horarios": [
+        ["LU", "", "CÁTEDRA 02"],
+        ["LU", "", "CÁTEDRA 02"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "EDE1025_VC2",
+      "vacantes_paquete": "28.0",
+      "profesor": "TORRELLAS LUSVIC"
+    },
+    {
+      "id_ramo": "EDE1025",
+      "nombre": "ENGLISH SPEAKING COUNTRIES CULTURE I",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 3",
+      "horarios": [
+        ["VI", "", "CÁTEDRA 03"],
+        ["VI", "", "CÁTEDRA 03"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "EDE1025_VC3",
+      "vacantes_paquete": "28.0",
+      "profesor": "ROMERO GABRIEL VICTOR"
+    }
+  ],
+  "EDE1037": [
+    {
+      "id_ramo": "EDE1037",
+      "nombre": "DIVERSIDAD Y CONVIVENCIA EN LA ESCUELA",
+      "creditos_asignatura": "4.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "", "CÁTEDRA 01"],
+        ["MA", "", "CÁTEDRA 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "EDE1037_VC1",
+      "vacantes_paquete": "34.0",
+      "profesor": "BANZ CECILIA VERONICA"
+    },
+    {
+      "id_ramo": "EDE1037",
+      "nombre": "DIVERSIDAD Y CONVIVENCIA EN LA ESCUELA",
+      "creditos_asignatura": "4.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 2",
+      "horarios": [
+        ["VI", "", "CÁTEDRA 02"],
+        ["VI", "", "CÁTEDRA 02"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "EDE1037_VC2",
+      "vacantes_paquete": "34.0",
+      "profesor": "BANZ CECILIA VERONICA"
+    },
+    {
+      "id_ramo": "EDE1037",
+      "nombre": "DIVERSIDAD Y CONVIVENCIA EN LA ESCUELA",
+      "creditos_asignatura": "4.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 3",
+      "horarios": [
+        ["VI", "", "CÁTEDRA 03"],
+        ["VI", "", "CÁTEDRA 03"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "EDE1037_VC3",
+      "vacantes_paquete": "35.0",
+      "profesor": "TAPIA NATALIA KARINA"
+    }
+  ],
+  "TEM4035": [
+    {
+      "id_ramo": "TEM4035",
+      "nombre": "SALUD PÚBLICA Y EPIDEMIOLOGÍA",
+      "creditos_asignatura": "4.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MI", "F", "TALLER 01"],
+        ["MA", "", "CÁTEDRA S1-S2-S3"],
+        ["MI", "F", "TALLER 01"],
+        ["MA", "", "CÁTEDRA S1-S2-S3"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "TEM4035_VC01",
+      "vacantes_paquete": "27.0",
+      "profesor": "CASTILLO LIDIA PAZ"
+    },
+    {
+      "id_ramo": "TEM4035",
+      "nombre": "SALUD PÚBLICA Y EPIDEMIOLOGÍA",
+      "creditos_asignatura": "4.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 2",
+      "horarios": [
+        ["MI", "G", "TALLER 02"],
+        ["MA", "", "CÁTEDRA S1-S2-S3"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "TEM4035_VC02",
+      "vacantes_paquete": "30.0",
+      "profesor": "CASTILLO LIDIA PAZ"
+    },
+    {
+      "id_ramo": "TEM4035",
+      "nombre": "SALUD PÚBLICA Y EPIDEMIOLOGÍA",
+      "creditos_asignatura": "4.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 3",
+      "horarios": [
+        ["MA", "", "CÁTEDRA S1-S2-S3"],
+        ["MI", "E", "TALLER 03"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "TEM4035_VC03",
+      "vacantes_paquete": "26.0",
+      "profesor": "CASTILLO LIDIA PAZ"
+    }
+  ],
+  "CFG2294": [
+    {
+      "id_ramo": "CFG2294",
+      "nombre": "B-LEARNIN CAMBIO CLI. Y ECO. POL. GLOBAL",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["LU", "", "B-LEARNING FG01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2294_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "RAMÍREZ CARLOS ALBERTO"
+    }
+  ],
+  "CFG2295": [
+    {
+      "id_ramo": "CFG2295",
+      "nombre": "B-LEARNING RELACIONES DE PODER Y GÉNERO",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["VI", "", "B-LEARNING FG01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2295_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "SCHONGUT NICOLAS"
+    }
+  ],
+  "CFG2296": [
+    {
+      "id_ramo": "CFG2296",
+      "nombre": "B-LEARNING GLOB., INFO. Y SOC. ACTUAL",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MI", "", "B-LEARNING FG01"],
+        ["MI", "", "B-LEARNING FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2296_CB01",
+      "vacantes_paquete": "43.0",
+      "profesor": "ROMERO ELENA PILAR"
+    }
+  ],
+  "CFG2298": [
+    {
+      "id_ramo": "CFG2298",
+      "nombre": "EL SISTEMA SOLAR PRESENCIAL",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "", "CÁTEDRA FG01"],
+        ["VI", "", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2298_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "ASSEF ROBERTO JOSE JAVIER"
+    }
+  ],
+  "CFG2312": [
+    {
+      "id_ramo": "CFG2312",
+      "nombre": "RAZONAMIENTO Y PENSAMIENTO CRÍTICO",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "G", "CÁTEDRA FG01"],
+        ["MI", "G", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2312_FG01",
+      "vacantes_paquete": "45.0",
+      "profesor": "REYES MIGUEL MARCELO"
+    }
+  ],
+  "CFG2318": [
+    {
+      "id_ramo": "CFG2318",
+      "nombre": "RELACIONES DE GÉNERO Y VIOLENCIA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "D", "CÁTEDRA FG01"],
+        ["JU", "D", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2318_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "PEÑA PATRICIA EUGENIA"
+    }
+  ],
+  "CFG2321": [
+    {
+      "id_ramo": "CFG2321",
+      "nombre": "REP. MUJER EN LOS MEDIOS DE COM Y CULTUR",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MI", "", "CÁTEDRA FG01"],
+        ["MI", "", "CÁTEDRA FG01"],
+        ["MI", "", "CÁTEDRA FG01"],
+        ["MI", "", "CÁTEDRA FG01"],
+        ["MI", "", "CÁTEDRA FG01"],
+        ["MI", "", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2321_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "ESCOBAR PAULA ELISA"
+    }
+  ],
+  "CFG2327": [
+    {
+      "id_ramo": "CFG2327",
+      "nombre": "EL INMIGRANTE SUEÑO Y CONFLICTOS",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "D", "CÁTEDRA FG01"],
+        ["MI", "D", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2327_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "VIAL XIMENA"
+    }
+  ],
+  "CFG2325": [
+    {
+      "id_ramo": "CFG2325",
+      "nombre": "B-LEARNING DILEMAS ÉTICOS DE LAS DEMOC",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["LU", "", "B-LEARNING FG01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2325_CB01",
+      "vacantes_paquete": "33.0",
+      "profesor": "SILVA ANGELA RUTH"
+    }
+  ],
+  "CFG2323": [
+    {
+      "id_ramo": "CFG2323",
+      "nombre": "B-LEARNING BIOÉTICA Y SOCIEDAD ACTUAL",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["LU", "", "B-LEARNING 01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2323_CB01",
+      "vacantes_paquete": "33.0",
+      "profesor": "CORREA ANDRES ALEJANDRO"
+    }
+  ],
+  "CFG2322": [
+    {
+      "id_ramo": "CFG2322",
+      "nombre": "B-LEARNING MEDIOAMBIENTE Y CIUDADANÍA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["VI", "", "B-LEARNING FG01"],
+        ["VI", "", "B-LEARNING FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2322_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "VALDERRAMA LORENA BEATRIZ"
+    }
+  ],
+  "CFG2324": [
+    {
+      "id_ramo": "CFG2324",
+      "nombre": "B-LEARNING CINE LATINOAMERICANO",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MI", "", "B-LEARNING FG01"],
+        ["MI", "", "B-LEARNING FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2324_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "LIEMPI MARCELA ANTONIETA"
+    }
+  ],
+  "CFG2331": [
+    {
+      "id_ramo": "CFG2331",
+      "nombre": "LAS SUSTANCIAS PSICOACTIVAS (DROGAS)",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "D", "CÁTEDRA FG01"],
+        ["MI", "D", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2331_FG01",
+      "vacantes_paquete": "45.0",
+      "profesor": "PEÑA PATRICIA EUGENIA"
+    }
+  ],
+  "CFG2335": [
+    {
+      "id_ramo": "CFG2335",
+      "nombre": "PSICOANÁLISIS Y CRIMINOLOGÍA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["JU", "G", "B-LEARNING FG01"],
+        ["VI", "G", "B-LEARNING FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2335_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "ALVEAR KATHERINE"
+    }
+  ],
+  "CFG2339": [
+    {
+      "id_ramo": "CFG2339",
+      "nombre": "ESCRITURA ACADÉMICA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["MA", "", "B-LEARNING FG01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2339_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "PUGA JUANA"
+    }
+  ],
+  "CFG2341": [
+    {
+      "id_ramo": "CFG2341",
+      "nombre": "PSICOLOGÍA, CINE Y NEUROCIENCIA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["MA", "", "CÁTEDRA FG01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2341_FG01",
+      "vacantes_paquete": "45.0",
+      "profesor": "LAVIN CLAUDIO SEBASTIAN"
+    }
+  ],
+  "CFG2343": [
+    {
+      "id_ramo": "CFG2343",
+      "nombre": "FOTOGRAFÍA Y MEMORIA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["MA", "", "B-LEARNING FG01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2343_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "CIFUENTES MARIA ANGELA"
+    }
+  ],
+  "SOC8315": [
+    {
+      "id_ramo": "SOC8315",
+      "nombre": "DISEÑO DE PROYECTOS",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "SOC7325",
+      "seccion": "Sección 1",
+      "horarios": [["LU", "", "CÁTEDRA 01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "SOC8315_VC01",
+      "vacantes_paquete": "40.0",
+      "profesor": "RIVAS ALEJANDRA SOFÍA"
+    }
+  ],
+  "SOC8213": [
+    {
+      "id_ramo": "SOC8213",
+      "nombre": "MÉTODOS CUALITATIVOS I",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["VI", "", "CÁTEDRA 01"],
+        ["VI", "", "CÁTEDRA 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "SOC8213_VC01",
+      "vacantes_paquete": "40.0",
+      "profesor": "MARTINEZ SOLEDAD ALEJANDRA"
+    }
+  ],
+  "CAV1071": [
+    {
+      "id_ramo": "CAV1071",
+      "nombre": "FUNDAMENTOS DE FINANZAS",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "", "CÁTEDRA 1"],
+        ["JU", "", "CÁTEDRA 1"],
+        ["MA", "", "CÁTEDRA 1"],
+        ["JU", "", "CÁTEDRA 1"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "CAV1071_VC1",
+      "vacantes_paquete": "40.0",
+      "profesor": "LEON FRANCISCO OSVALDO"
+    }
+  ],
+  "CAV1024": [
+    {
+      "id_ramo": "CAV1024",
+      "nombre": "CONTROL DE GESTIÓN",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "", "CÁTEDRA 1"],
+        ["MI", "", "CÁTEDRA 1"],
+        ["LU", "", "CÁTEDRA 1"],
+        ["MI", "", "CÁTEDRA 1"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "CAV1024_VC1",
+      "vacantes_paquete": "40.0",
+      "profesor": "SILVA JUAN PABLO"
+    }
+  ],
+  "CFG2347": [
+    {
+      "id_ramo": "CFG2347",
+      "nombre": "ACCIÓN, INTENCIÓN Y SUS EFECTOS",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "F", "CÁTEDRA FG01"],
+        ["MI", "F", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2347_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "ORMEÑO JUAN ANTONIO"
+    }
+  ],
+  "CFG2352": [
+    {
+      "id_ramo": "CFG2352",
+      "nombre": "MUJER Y PENSAMIENTO",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "D", "CÁTEDRA FG01"],
+        ["MI", "D", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2352_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "SANHUEZA MARIA SOLEDAD"
+    }
+  ],
+  "CFG2355": [
+    {
+      "id_ramo": "CFG2355",
+      "nombre": "B-LEARNING ARTE Y MEMORIA EN AMÉRICA LAT",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "", "B-LEARNING FG01"],
+        ["LU", "", "B-LEARNING FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2355_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "LOPEZ ANA PAOLA"
+    }
+  ],
+  "CFG2353": [
+    {
+      "id_ramo": "CFG2353",
+      "nombre": "B-LEARNING MIGRACIONES Y DIVERSIDAD CULT",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["VI", "", "B-LEARNING FG01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2353_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "AGAR LORENZO RENE"
+    },
+    {
+      "id_ramo": "CFG2353",
+      "nombre": "B-LEARNING MIGRACIONES Y DIVERSIDAD CULT",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 2",
+      "horarios": [["LU", "", "B-LEARNING FG02"]],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2353_CB02",
+      "vacantes_paquete": "45.0",
+      "profesor": "AGAR LORENZO RENE"
+    }
+  ],
+  "CFG2358": [
+    {
+      "id_ramo": "CFG2358",
+      "nombre": "ESCRITORAS NORTEAMERICANAS",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "", "B-LEARNING FG01"],
+        ["MA", "", "B-LEARNING FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2358_CB01",
+      "vacantes_paquete": "55.0",
+      "profesor": "ABALO BERNARDITA MARIA MILAGROS"
+    }
+  ],
+  "CFG2365": [
+    {
+      "id_ramo": "CFG2365",
+      "nombre": "PROBLEMAS ÉTICOS-JURÍDICOS",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "E", "CÁTEDRA FG01"],
+        ["MI", "E", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2365_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "TAPIA PATRICIO LORENZO"
+    }
+  ],
+  "CFG2368": [
+    {
+      "id_ramo": "CFG2368",
+      "nombre": "FEMINISMO DIVERSOS Y DISIDENCIAS SEXUALE",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["JU", "", "CÁTEDRA FG01"],
+        ["JU", "", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2368_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "DURAND MARIA TERESA"
+    }
+  ],
+  "CFG2369": [
+    {
+      "id_ramo": "CFG2369",
+      "nombre": "VARONES HEGEMÓNICOS: MASCULINIDADES Y PA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["JU", "", "CÁTEDRA FG01"],
+        ["JU", "", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2369_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "DURAND MARIA TERESA"
+    }
+  ],
+  "CFG2385": [
+    {
+      "id_ramo": "CFG2385",
+      "nombre": "¿QUÉ SE CUENTA EN LATINOAMÉRICA HOY?",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "C", "CÁTEDRA FG01"],
+        ["VI", "C", "CÁTEDRA FG01"],
+        ["MA", "C", "CÁTEDRA FG01"],
+        ["VI", "C", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2285_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "MÜLLER BRENDA"
+    }
+  ],
+  "CFG2390": [
+    {
+      "id_ramo": "CFG2390",
+      "nombre": "NEUROCIENCIA Y LA ERA DIGITAL",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["JU", "", "CÁTEDRA FG01"]],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2390_FG01",
+      "vacantes_paquete": "45.0",
+      "profesor": ""
+    }
+  ],
+  "CFG2397": [
+    {
+      "id_ramo": "CFG2397",
+      "nombre": "MEMORIA EN AMÉRICA LATINA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG2397_FG01",
+      "vacantes_paquete": "40.0",
+      "profesor": "ZENTENO ANDRÉS RAÚL"
+    }
+  ],
+  "OBS03112": [
+    {
+      "id_ramo": "OBS03112",
+      "nombre": "CUIDADOS EN SALUD MENTAL",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["JU", "", "CÁTEDRA"],
+        ["JU", "", "CÁTEDRA"],
+        ["JU", "", "CÁTEDRA"],
+        ["JU", "", "CÁTEDRA"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "OBS03112_VC1",
+      "vacantes_paquete": "70.0",
+      "profesor": "FERRANDO MAGALY LORENA"
+    }
+  ],
+  "OBS03114": [
+    {
+      "id_ramo": "OBS03114",
+      "nombre": "SALUD CON PERSPECTIVA DE GÉNERO",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["VI", "", "CÁTEDRA"],
+        ["VI", "", "CÁTEDRA"],
+        ["VI", "", "CÁTEDRA"],
+        ["VI", "", "CÁTEDRA"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "OBS03114_VC1",
+      "vacantes_paquete": "70.0",
+      "profesor": "BAEZA CECILIA ELENA"
+    }
+  ],
+  "ADP01115": [
+    {
+      "id_ramo": "ADP01115",
+      "nombre": "INTRODUCCIÓN AL DERECHO",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "D", "CÁTEDRA 01"],
+        ["VI", "D", "CÁTEDRA 01"],
+        ["MA", "E", "AYUDANTÍA OBLIGATORIA 01"],
+        ["MA", "D", "CÁTEDRA 01"],
+        ["VI", "D", "CÁTEDRA 01"],
+        ["MA", "E", "AYUDANTÍA OBLIGATORIA 01"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "ADP1115_VC01",
+      "vacantes_paquete": "45.0",
+      "profesor": "TORRES MAURICIO"
+    },
+    {
+      "id_ramo": "ADP01115",
+      "nombre": "INTRODUCCIÓN AL DERECHO",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 2",
+      "horarios": [
+        ["MA", "C", "CÁTEDRA 02"],
+        ["JU", "C", "CÁTEDRA 02"],
+        ["MA", "E", "AYUDANTÍA OBLIGATORIA 02"],
+        ["MA", "C", "CÁTEDRA 02"],
+        ["JU", "C", "CÁTEDRA 02"],
+        ["MA", "E", "AYUDANTÍA OBLIGATORIA 02"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "ADP1115_VC02",
+      "vacantes_paquete": "45.0",
+      "profesor": "JARAQUEMADA MARIA"
+    }
+  ],
+  "ADP01212": [
+    {
+      "id_ramo": "ADP01212",
+      "nombre": "MACROECONOMÍA",
+      "creditos_asignatura": "6.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "A", "AYUDANTÍA OBLIGATORIA 01"],
+        ["LU", "", "CÁTEDRA 01"],
+        ["LU", "", "CÁTEDRA 01"],
+        ["MA", "A", "AYUDANTÍA OBLIGATORIA 01"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "ADP1212_VC01",
+      "vacantes_paquete": "60.0",
+      "profesor": "VILLENA MAURICIO GONZALO"
+    }
+  ],
+  "ADP01214": [
+    {
+      "id_ramo": "ADP01214",
+      "nombre": "PROCESO POLÍTICO Y LEGISLATIVO",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["VI", "", "CÁTEDRA 01"],
+        ["JU", "B", "AYUDANTÍA OBLIGATORIA 01"],
+        ["VI", "", "CÁTEDRA 01"],
+        ["JU", "B", "AYUDANTÍA OBLIGATORIA 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "ADP1214_VC01",
+      "vacantes_paquete": "60.0",
+      "profesor": ""
+    }
+  ],
+  "DER06214": [
+    {
+      "id_ramo": "DER06214",
+      "nombre": "ECONOMÍA Y DERECHO (FI)",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "DER5009",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MI", "A", "CÁTEDRA 01"],
+        ["VI", "A", "CÁTEDRA 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "DER06214_VC1",
+      "vacantes_paquete": "50.0",
+      "profesor": "BRICEÑO CARLOS HIGINIO"
+    },
+    {
+      "id_ramo": "DER06214",
+      "nombre": "ECONOMÍA Y DERECHO (FI)",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "DER5009",
+      "seccion": "Sección 2",
+      "horarios": [
+        ["MI", "A", "CÁTEDRA 02"],
+        ["VI", "A", "CÁTEDRA 02"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "DER06214_VC2",
+      "vacantes_paquete": "50.0",
+      "profesor": "MERY RAFAEL"
+    },
+    {
+      "id_ramo": "DER06214",
+      "nombre": "ECONOMÍA Y DERECHO (FI)",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "DER5009",
+      "seccion": "Sección 3",
+      "horarios": [
+        ["MI", "A", "CÁTEDRA 03"],
+        ["VI", "A", "CÁTEDRA 03"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "DER06214_VC3",
+      "vacantes_paquete": "50.0",
+      "profesor": "ARAYA FERNANDO ANDRES"
+    },
+    {
+      "id_ramo": "DER06214",
+      "nombre": "ECONOMÍA Y DERECHO (FI)",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "DER5009",
+      "seccion": "Sección 4",
+      "horarios": [
+        ["MI", "A", "CÁTEDRA 04"],
+        ["VI", "A", "CÁTEDRA 04"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "DER06214_VC4",
+      "vacantes_paquete": "50.0",
+      "profesor": ""
+    },
+    {
+      "id_ramo": "DER06214",
+      "nombre": "ECONOMÍA Y DERECHO (FI)",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "DER5009",
+      "seccion": "Sección 5",
+      "horarios": [
+        ["JU", "F", "CÁTEDRA 05"],
+        ["VI", "F", "CÁTEDRA 05"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "DER06214_VC5",
+      "vacantes_paquete": "50.0",
+      "profesor": ""
+    },
+    {
+      "id_ramo": "DER06214",
+      "nombre": "ECONOMÍA Y DERECHO (FI)",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "DER5009",
+      "seccion": "Sección 6",
+      "horarios": [
+        ["JU", "F", "CÁTEDRA 06"],
+        ["VI", "F", "CÁTEDRA 06"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "DER06214_VC6",
+      "vacantes_paquete": "50.0",
+      "profesor": ""
+    }
+  ],
+  "CFG5013": [
+    {
+      "id_ramo": "CFG5013",
+      "nombre": "INDIGENOUS POPULATION IN CHILE",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["JU", "", "CÁTEDRA FG01 (cursos en inglés)"],
+        ["JU", "", "CÁTEDRA FG01 (cursos en inglés)"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5013_FG01",
+      "vacantes_paquete": "35.0",
+      "profesor": "REYES DANIELA ALEJANDRA"
+    }
+  ],
+  "CFG5014": [
+    {
+      "id_ramo": "CFG5014",
+      "nombre": "ENVIRONMENT AND SUSTAINABLE DEVELOPMENT",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "G", "CÁTEDRA FG01 (cursos en inglés)"],
+        ["JU", "G", "CÁTEDRA FG01 (cursos en inglés)"],
+        ["MA", "G", "CÁTEDRA FG01 (cursos en inglés)"],
+        ["JU", "G", "CÁTEDRA FG01 (cursos en inglés)"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5014_FG01",
+      "vacantes_paquete": "35.0",
+      "profesor": "GONZALEZ CLAUDIA ANDREA"
+    }
+  ],
+  "CFG5012": [
+    {
+      "id_ramo": "CFG5012",
+      "nombre": "DOING BUSINESS IN LATIN AMERICA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "C", "CÁTEDRA FG01"],
+        ["JU", "C", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5012_FG01",
+      "vacantes_paquete": "35.0",
+      "profesor": "RAMIREZ GUILLERMO"
+    }
+  ],
+  "CFG5018": [
+    {
+      "id_ramo": "CFG5018",
+      "nombre": "ZOOMING IN AND OUT: SCALING THE UNIVERSE",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["JU", "", "CÁTEDRA FG01"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5018_FG01",
+      "vacantes_paquete": "35.0",
+      "profesor": "SAEZ SCARLET"
+    }
+  ],
+  "CFG5023": [
+    {
+      "id_ramo": "CFG5023",
+      "nombre": "PATRIMONIO EN TENSIÓN",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "", "CÁTEDRA FG01"],
+        ["MA", "", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5023_FG01",
+      "vacantes_paquete": "45.0",
+      "profesor": "VERGARA XIMENA ANDREA"
+    }
+  ],
+  "CFG5024": [
+    {
+      "id_ramo": "CFG5024",
+      "nombre": "ESCRITURA ARTIFICIAL",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MI", "", "CÁTEDRA FG01"],
+        ["JU", "", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5024_FG01",
+      "vacantes_paquete": "45.0",
+      "profesor": "ROSSI ALEJANDRO"
+    }
+  ],
+  "CFG5030": [
+    {
+      "id_ramo": "CFG5030",
+      "nombre": "LA ANATOMIA NARRATIVA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "E", "CÁTEDRA FG01"],
+        ["VI", "E", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5030_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "CARREÑO GABRIEL"
+    }
+  ],
+  "CFG5029": [
+    {
+      "id_ramo": "CFG5029",
+      "nombre": "EDUCACIÓN EN SALUD SEXUAL Y REPRODUCTIVA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "", "CÁTEDRA FG01"],
+        ["MA", "", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5029_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": "ZEGERS LUIS FERNANDO"
+    }
+  ],
+  "CFG5032": [
+    {
+      "id_ramo": "CFG5032",
+      "nombre": "MODERNIDAD Y CRISIS DEL SENTIDO",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["JU", "E", "CÁTEDRA FG01"],
+        ["VI", "E", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5032_FG01",
+      "vacantes_paquete": "45.0",
+      "profesor": "GARCES ROCIO"
+    }
+  ],
+  "EDE02113": [
+    {
+      "id_ramo": "EDE02113",
+      "nombre": "CONSTRUCCIÓN DE LA IDENTIDAD PROFESIONAL",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "", "CÁTEDRA 01"],
+        ["LU", "", "CÁTEDRA 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "EDE02113_VC1",
+      "vacantes_paquete": "42.0",
+      "profesor": "CASTRO LUIS FELIPE"
+    },
+    {
+      "id_ramo": "EDE02113",
+      "nombre": "CONSTRUCCIÓN DE LA IDENTIDAD PROFESIONAL",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 2",
+      "horarios": [
+        ["MA", "", "CÁTEDRA 02"],
+        ["MA", "", "CÁTEDRA 02"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "EDE02113_VC2",
+      "vacantes_paquete": "42.0",
+      "profesor": "CASTRO LUIS FELIPE"
+    },
+    {
+      "id_ramo": "EDE02113",
+      "nombre": "CONSTRUCCIÓN DE LA IDENTIDAD PROFESIONAL",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 3",
+      "horarios": [
+        ["JU", "", "CÁTEDRA 03"],
+        ["JU", "", "CÁTEDRA 03"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "EDE02113_VC3",
+      "vacantes_paquete": "42.0",
+      "profesor": "SALAS CAMILA TATIANA"
+    }
+  ],
+  "EDE02115": [
+    {
+      "id_ramo": "EDE02115",
+      "nombre": "SISTEMA EDUCATIVO Y CURRICULUM ESCOLAR",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "", "CÁTEDRA 01"],
+        ["LU", "", "CÁTEDRA 01"],
+        ["LU", "", "CÁTEDRA 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "EDE02115_VC1",
+      "vacantes_paquete": "42.0",
+      "profesor": "ALARCON MARIO ENRIQUE"
+    },
+    {
+      "id_ramo": "EDE02115",
+      "nombre": "SISTEMA EDUCATIVO Y CURRICULUM ESCOLAR",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 2",
+      "horarios": [
+        ["MA", "", "CÁTEDRA 02"],
+        ["MA", "", "CÁTEDRA 02"],
+        ["MA", "", "CÁTEDRA 02"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "EDE02115_VC2",
+      "vacantes_paquete": "42.0",
+      "profesor": "ALARCON MARIO ENRIQUE"
+    },
+    {
+      "id_ramo": "EDE02115",
+      "nombre": "SISTEMA EDUCATIVO Y CURRICULUM ESCOLAR",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 3",
+      "horarios": [
+        ["MA", "", "CÁTEDRA 03"],
+        ["MA", "", "CÁTEDRA 03"],
+        ["MA", "", "CÁTEDRA 03"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "EDE02115_VC3",
+      "vacantes_paquete": "42.0",
+      "profesor": "MUÑOZ GONZALO ANDRES"
+    }
+  ],
+  "ICG4111": [
+    {
+      "id_ramo": "ICG4111",
+      "nombre": "FUNDAMENTOS DE ADMINISTRACIÓN",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "", "CÁTEDRA 01"],
+        ["MI", "", "CÁTEDRA 01"],
+        ["JU", "A", "AYUDANTÍA OBLIGATORIA"],
+        ["MA", "", "CÁTEDRA 01"],
+        ["MI", "", "CÁTEDRA 01"],
+        ["JU", "A", "AYUDANTÍA OBLIGATORIA"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "ICG4111_VC01",
+      "vacantes_paquete": "60.0",
+      "profesor": "CONTRERAS PABLO RODRIGO"
+    },
+    {
+      "id_ramo": "ICG4111",
+      "nombre": "FUNDAMENTOS DE ADMINISTRACIÓN",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 2",
+      "horarios": [
+        ["MA", "", "CÁTEDRA 02"],
+        ["MI", "", "CÁTEDRA 02"],
+        ["VI", "B", "AYUDANTÍA OBLIGATORIA 02"],
+        ["MA", "", "CÁTEDRA 02"],
+        ["MI", "", "CÁTEDRA 02"],
+        ["VI", "B", "AYUDANTÍA OBLIGATORIA 02"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "ICG4111_VC02",
+      "vacantes_paquete": "60.0",
+      "profesor": "PAVEZ CAROLINA ALEJANDRA"
+    },
+    {
+      "id_ramo": "ICG4111",
+      "nombre": "FUNDAMENTOS DE ADMINISTRACIÓN",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 3",
+      "horarios": [
+        ["LU", "F", "CÁTEDRA 03"],
+        ["MI", "F", "CÁTEDRA 03"],
+        ["LU", "B", "AYUDANTÍA OBLIGATORIA 03"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "ICG4113_VC03",
+      "vacantes_paquete": "40.0",
+      "profesor": "MUÑOZ CARLOS ALEJANDRO"
+    }
+  ],
+  "ICG4114": [
+    {
+      "id_ramo": "ICG4114",
+      "nombre": "PRINCIPIOS DE ECONOMÍA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "ICG3111",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "", "CÁTEDRA 01"],
+        ["VI", "", "CÁTEDRA 01"],
+        ["MA", "C", "AYUDANTÍA OBLIGATORIA 01"],
+        ["MA", "C", "AYUDANTÍA OBLIGATORIA 01"],
+        ["LU", "", "CÁTEDRA 01"],
+        ["VI", "", "CÁTEDRA 01"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "ICG4114_VC01",
+      "vacantes_paquete": "60.0",
+      "profesor": "DE ROSAS PABLO FERNANDO"
+    },
+    {
+      "id_ramo": "ICG4114",
+      "nombre": "PRINCIPIOS DE ECONOMÍA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "ICG3111",
+      "seccion": "Sección 2",
+      "horarios": [
+        ["MA", "B", "AYUDANTÍA OBLIGATORIA 02"],
+        ["LU", "B", "CÁTEDRA 02"],
+        ["JU", "B", "CÁTEDRA 02"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "ICG4114_VC02",
+      "vacantes_paquete": "66.0",
+      "profesor": "DE ROSAS PABLO FERNANDO"
+    }
+  ],
+  "ICG4115": [
+    {
+      "id_ramo": "ICG4115",
+      "nombre": "TALLER DE COMUNICACIÓN 1",
+      "creditos_asignatura": "4.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["JU", "", "CÁTEDRA 01"],
+        ["JU", "", "CÁTEDRA 01"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "ICG4115_VC01",
+      "vacantes_paquete": "40.0",
+      "profesor": "VARGAS MARIA PAZ"
+    },
+    {
+      "id_ramo": "ICG4115",
+      "nombre": "TALLER DE COMUNICACIÓN 1",
+      "creditos_asignatura": "4.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 2",
+      "horarios": [
+        ["JU", "", "CÁTEDRA 02"],
+        ["JU", "", "CÁTEDRA 02"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "ICG4115_VC02",
+      "vacantes_paquete": "40.0",
+      "profesor": "VARGAS MARIA PAZ"
+    },
+    {
+      "id_ramo": "ICG4115",
+      "nombre": "TALLER DE COMUNICACIÓN 1",
+      "creditos_asignatura": "4.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 3",
+      "horarios": [
+        ["MI", "", "CÁTEDRA 03"],
+        ["MI", "", "CÁTEDRA 03"]
+      ],
+      "sede": "S-HUECHURABA",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "ICG4115_VC03",
+      "vacantes_paquete": "40.0",
+      "profesor": "VARGAS MARIA PAZ"
+    }
+  ],
+  "CAV02111": [
+    {
+      "id_ramo": "CAV02111",
+      "nombre": "FUNDAMENTOS DE CONTABILIDAD",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "", "CÁTEDRA 1"],
+        ["JU", "", "CÁTEDRA 1"],
+        ["MA", "", "CÁTEDRA 1"],
+        ["JU", "", "CÁTEDRA 1"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "CAV02111_VC1",
+      "vacantes_paquete": "50.0",
+      "profesor": "GANGAS JUAN BAUTISTA"
+    }
+  ],
+  "CAV02112": [
+    {
+      "id_ramo": "CAV02112",
+      "nombre": "ADMINISTRACIÓN",
+      "creditos_asignatura": "4.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "", "CÁTEDRA 1"],
+        ["JU", "", "CÁTEDRA 1"],
+        ["MA", "", "CÁTEDRA 1"],
+        ["JU", "", "CÁTEDRA 1"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "CAV02112_VC1",
+      "vacantes_paquete": "50.0",
+      "profesor": "SILVA JUAN PABLO"
+    }
+  ],
+  "CAV02113": [
+    {
+      "id_ramo": "CAV02113",
+      "nombre": "DERECHO LABORAL Y SOCIEDADES",
+      "creditos_asignatura": "4.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "", "CÁTEDRA 1"],
+        ["MI", "", "CÁTEDRA 1"],
+        ["LU", "", "CÁTEDRA 1"],
+        ["MI", "", "CÁTEDRA 1"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "CAV02113_VC1",
+      "vacantes_paquete": "50.0",
+      "profesor": "BUDINICH EDMUNDO MARCOS"
+    }
+  ],
+  "CFG5034": [
+    {
+      "id_ramo": "CFG5034",
+      "nombre": "ASTRONOMÍA Y LITERATURA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "F", "CÁTEDRA FG01"],
+        ["JU", "F", "CÁTEDRA FG01"],
+        ["LU", "F", "CÁTEDRA FG01"],
+        ["JU", "F", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5034_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "DEL RÍO ALEJANDRA JULIA"
+    }
+  ],
+  "CFG5037": [
+    {
+      "id_ramo": "CFG5037",
+      "nombre": "CONTROVERSIAS MORALES DE AYER Y HOY",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MI", "", "CÁTEDRA DE FG"],
+        ["MI", "", "CÁTEDRA DE FG"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5037_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "BOITANO ANGELA ROSSANA"
+    }
+  ],
+  "CFG5039": [
+    {
+      "id_ramo": "CFG5039",
+      "nombre": "CULTURA Y VIOLENCIA EN AMÉRICA LATINA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["JU", "", "CÁTEDRA FG01"],
+        ["JU", "", "CÁTEDRA FG01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5039_FG01",
+      "vacantes_paquete": "45.0",
+      "profesor": "FERNANDEZ PATRICIO HERMAN"
+    }
+  ],
+  "EDP05111": [
+    {
+      "id_ramo": "EDP05111",
+      "nombre": "PSICOLOGÍA DEL DESARROLLO Y NEUROCIENCIA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "EDP4000",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MI", "", "CÁTEDRA 01 PARVULOS"],
+        ["MI", "", "CÁTEDRA 01 PARVULOS"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "EDP05111_VC1",
+      "vacantes_paquete": "47.0",
+      "profesor": "DEL RIO MARIA FRANCISCA"
+    },
+    {
+      "id_ramo": "EDP05111",
+      "nombre": "PSICOLOGÍA DEL DESARROLLO Y NEUROCIENCIA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "EDP4000",
+      "seccion": "Sección 2",
+      "horarios": [
+        ["LU", "", "CÁTEDRA 02 PARVULOS"],
+        ["LU", "", "CÁTEDRA 02 PARVULOS"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes de Carrera",
+      "paquete": "EDP05111_VC2",
+      "vacantes_paquete": "47.0",
+      "profesor": "MORALES MARÍA FRANCISCA"
+    }
+  ],
+  "CFG5044": [
+    {
+      "id_ramo": "CFG5044",
+      "nombre": "POPULISMO Y EMOCIONES POLÍTICAS",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "G", "CÁTEDRA DE FG"],
+        ["JU", "G", "CÁTEDRA DE FG"],
+        ["MA", "G", "CÁTEDRA DE FG"],
+        ["JU", "G", "CÁTEDRA DE FG"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5044_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "PEREDO SEBASTIAN"
+    }
+  ],
+  "CFG5045": [
+    {
+      "id_ramo": "CFG5045",
+      "nombre": "SOCIEDAD (ES) EN LA ERA DEL BIG DATA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "G", "CÁTEDRA DE FG 01"],
+        ["MI", "G", "CÁTEDRA DE FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5045_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "VELÁSQUEZ ROBERTO ARNALDO"
+    }
+  ],
+  "CFG5046": [
+    {
+      "id_ramo": "CFG5046",
+      "nombre": "BRECHAS DIGITALES, POLÍTICAS PÚBLICAS Y",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "", "CÁTEDRA DE FG 01"],
+        ["JU", "", "CÁTEDRA DE FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5046_FG01",
+      "vacantes_paquete": "40.0",
+      "profesor": "PETIT DAVID LEONARDO"
+    }
+  ],
+  "CFG5047": [
+    {
+      "id_ramo": "CFG5047",
+      "nombre": "JUSTICIA ESPACIAL Y PLANIFICACIÓN URBANA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "B", "CÁTEDRA DE FG 01"],
+        ["VI", "B", "CÁTEDRA DE FG 01"],
+        ["MA", "B", "CÁTEDRA DE FG 01"],
+        ["VI", "B", "CÁTEDRA DE FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5047_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "GUEVARA GABRIELA ANDREA"
+    }
+  ],
+  "CFG5048": [
+    {
+      "id_ramo": "CFG5048",
+      "nombre": "ALIMENTACIÓN CULTURA Y POL. PÚBLICAS",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "F", "CÁTEDRA DE FG 01"],
+        ["JU", "F", "CÁTEDRA DE FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5048_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "ALVEAR ALEJANDRA PAZ"
+    }
+  ],
+  "CFG5049": [
+    {
+      "id_ramo": "CFG5049",
+      "nombre": "BIODIVERSIDAD, M. AMBIENTE Y CIUDADANÍA",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "B", "CÁTEDRA DE FG 01"],
+        ["MA", "B", "CÁTEDRA DE FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5049_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "ZURITA CARLOS NICOLÁS FELIPE"
+    }
+  ],
+  "CFG5051": [
+    {
+      "id_ramo": "CFG5051",
+      "nombre": "MOVIMIENTOS JUVENILES EN EL SIGLO XX-XXI",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["LU", "", "CÁTEDRA DE FG 01"],
+        ["MI", "", "CÁTEDRA DE FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5051_FG01",
+      "vacantes_paquete": "40.0",
+      "profesor": "SANTA CRUZ YANNY PAOLA"
+    }
+  ],
+  "CFG5052": [
+    {
+      "id_ramo": "CFG5052",
+      "nombre": "RACIALISMO: DISCURSOS Y REPRESENTACIONES",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "A", "CÁTEDRA DE FG 01"],
+        ["VI", "A", "CÁTEDRA DE FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5052_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "ARRE MONTSERRAT NICOLE"
+    }
+  ],
+  "CFG5054": [
+    {
+      "id_ramo": "CFG5054",
+      "nombre": "PAISAJE Y PODER",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "F", "CÁTEDRA DE FG 01"],
+        ["VI", "F", "CÁTEDRA DE FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5054_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "FARRIOL ROBERTO JESÚS"
+    }
+  ],
+  "CFG5053": [
+    {
+      "id_ramo": "CFG5053",
+      "nombre": "DEPORTE, GLOBALIZACIÓN Y PODER",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "A", "CÁTEDRA DE FG 01"],
+        ["JU", "A", "CÁTEDRA DE FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5053_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "VILCHES DIEGO ANTONIO"
+    }
+  ],
+  "CFG5050": [
+    {
+      "id_ramo": "CFG5050",
+      "nombre": "HERRAMIENTAS PARA LAS IAS GENERATIVAS",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["MA", "", "CÁTEDRA DE FG 01"],
+        ["VI", "", "CÁTEDRA DE FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5050_FG01",
+      "vacantes_paquete": "55.0",
+      "profesor": ""
+    }
+  ],
+  "CFG5055": [
+    {
+      "id_ramo": "CFG5055",
+      "nombre": "CONFLICTOS SOCIOAMBIENTALES Y CRISIS GL.",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [
+        ["JU", "", "CÁTEDRA DE FG 01"],
+        ["JU", "", "CÁTEDRA DE FG 01"]
+      ],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5055_FG01",
+      "vacantes_paquete": "50.0",
+      "profesor": "FRANCHINI VICENTE ALFREDO"
+    }
+  ],
+  "CFG5058": [
+    {
+      "id_ramo": "CFG5058",
+      "nombre": "BORDERS AND SOCIAL MOVEMENTS",
+      "creditos_asignatura": "5.0",
+      "asignatura_referenciada": "",
+      "seccion": "Sección 1",
+      "horarios": [["MI", "", "CÁTEDRA FG01 (100% EN INGLÉS)"]],
+      "sede": "S-SANTIAGO",
+      "categoria_paquete": "Vacantes FG",
+      "paquete": "CFG5058_FG01",
+      "vacantes_paquete": "35.0",
+      "profesor": "VIAL XIMENA"
+    }
+  ]
+}

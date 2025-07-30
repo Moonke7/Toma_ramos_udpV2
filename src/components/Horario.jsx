@@ -1,6 +1,7 @@
 import Card from "./Card";
+import '@/styles/horario.css';
 
-const Horario = ({ horario }) => {
+const Horario = ({ horario, catedraColor, ayudantiaColor, labColor }) => {
   const bloques = {
     "08:30 - 09:50": "A",
     "10:00 - 11:20": "B",
@@ -45,23 +46,38 @@ const Horario = ({ horario }) => {
               <Card
                 info={horario["LU"][bloques[b]]}
                 bloque={["LU", bloques[b]]}
+                catedraColor={catedraColor}
+                ayudantiaColor={ayudantiaColor}
+                labColor={labColor}
               />
               <Card
                 info={horario["MA"][bloques[b]]}
                 bloque={["MA", bloques[b]]}
+                catedraColor={catedraColor}
+                ayudantiaColor={ayudantiaColor}
+                labColor={labColor}
               />
               <Card
                 info={horario["MI"][bloques[b]]}
                 bloque={["MI", bloques[b]]}
+                catedraColor={catedraColor}
+                ayudantiaColor={ayudantiaColor}
+                labColor={labColor}
               />
               <Card
                 info={horario["JU"][bloques[b]]}
                 bloque={["JU", bloques[b]]}
+                catedraColor={catedraColor}
+                ayudantiaColor={ayudantiaColor}
+                labColor={labColor}
               />
 
               <Card
                 info={horario["VI"][bloques[b]]}
                 bloque={["VI", bloques[b]]}
+                catedraColor={catedraColor}
+                ayudantiaColor={ayudantiaColor}
+                labColor={labColor}
               />
             </tr>
           ))}

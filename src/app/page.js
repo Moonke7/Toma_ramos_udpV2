@@ -5,13 +5,13 @@ export default function Home() {
     <div className="container">
       <div className="ButtonsContainer">
         <button>
-          <a href="/about">
+          <a href="/selector">
             <span>Generador de horarios</span>
           </a>
         </button>
 
         <button>
-          <a href="/about">
+          <a href="/comparar">
             <span>Comparar horarios</span>
           </a>
         </button>
