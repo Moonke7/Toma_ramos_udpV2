@@ -10,7 +10,7 @@ body {
 
 /* ---------------------- Cambio de colores -------------------- */
 .colorChanger {
-  padding: 5% 2% 0 2%;
+  padding: 0 2%;
   width: 100%;
 }
 .colorChanger ul {
@@ -120,18 +120,34 @@ small {
 .seccSelector {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
   position: relative;
-  gap: 8px;
+  gap: 12px;
+  width: 340px;
+  min-width: 300px;
 }
-.seccSelector a {
-  border-radius: 4px;
-  padding: 8px 10px;
+
+.list-group {
+  width: 100%;
+}
+
+.seccContainer {
+  width: 100%;
+}
+
+.seccSelector a,
+.seccSelector .buttons a,
+.seccSelector #saveButton {
+  display: block;
+  width: 100%;
+  text-align: center;
+  border-radius: 8px;
+  padding: 10px 12px;
   border: solid 2px #8ec7e7;
-  font-size: 1.1em;
+  font-size: 0.95rem;
   color: #4f9ecc;
   text-decoration: none;
   transition: background-color 0.3s ease, color 0.3s ease;
+  box-sizing: border-box;
 }
 .seccSelector a:hover {
   background-color: #e8ecf6;
@@ -152,6 +168,10 @@ small {
   flex-direction: row;
   flex-wrap: wrap;
   gap: 8px;
+}
+.buttons > * {
+  flex: 1 1 calc(50% - 8px);
+  min-width: 0;
 }
 
 /* ---------------------- Paginación -------------------- */
@@ -187,4 +207,200 @@ small {
 #downloadButton:hover {
   background-color: #009625;
   color: white;
+}
+
+/* ------------------ Compatibles (Ayudantías / CFGs) ------------------ */
+.compatibles-bar {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  padding: 5% 2% 0 2%;
+  margin-bottom: 16px;
+}
+.compatibles-bar .compButtonWrapper {
+  flex: 1;
+}
+
+.compButtonWrapper {
+  position: relative;
+}
+
+.compButton {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 12px;
+  border: solid 2px #283f64;
+  border-radius: 8px;
+  background-color: #e8ecf6;
+  color: #21304a;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s, box-shadow 0.2s;
+}
+.compButton:hover {
+  background-color: #d4dcee;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+.compButton.active {
+  background-color: #283f64;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(40,63,100,0.3);
+}
+.compButtonIcon {
+  font-size: 1.1rem;
+}
+.compCount {
+  margin-left: auto;
+  background-color: rgba(0,0,0,0.1);
+  border-radius: 10px;
+  padding: 1px 8px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  min-width: 22px;
+  text-align: center;
+}
+.compButton.active .compCount {
+  background-color: rgba(255,255,255,0.25);
+  color: #fff;
+}
+
+.compDropdown {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  z-index: 100;
+  background: #fff;
+  border: solid 2px #283f64;
+  border-radius: 8px;
+  max-height: 240px;
+  overflow-y: auto;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+}
+.compDropdownEmpty {
+  padding: 16px;
+  text-align: center;
+  color: #888;
+  font-size: 0.85rem;
+}
+
+.compDropdownItem {
+  padding: 10px 12px;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+  transition: background-color 0.15s;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.compDropdownItem:last-child {
+  border-bottom: none;
+}
+.compDropdownItem:hover {
+  background-color: #f0f4ff;
+}
+.compDropdownItem.added {
+  background-color: #e8f5e9;
+}
+.compDropdownItem.added:hover {
+  background-color: #c8e6c9;
+}
+
+.compDropdownItem-main {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+}
+.compDropdownItem-code {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #888;
+  white-space: nowrap;
+}
+.compDropdownItem-name {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #21304a;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.compDropdownItem-sub {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.compDropdownItem-prof {
+  font-size: 0.75rem;
+  color: #666;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  flex: 1;
+}
+.compDropdownItem-slot {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #283f64;
+  background-color: #e8ecf6;
+  padding: 1px 6px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+.compDropdownItem-badge {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #4a7cbd;
+  text-align: right;
+  margin-top: 2px;
+}
+.compDropdownItem.added .compDropdownItem-badge {
+  color: #2e7d32;
+}
+
+/* Chips de complementos activos */
+.complementos-activos {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 2% 0 2%;
+}
+.complementos-activos-title {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #21304a;
+  white-space: nowrap;
+  margin: 0;
+}
+.complemento-chip {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 8px;
+  background-color: #e8f5e9;
+  border: 1px solid #a5d6a7;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  color: #21304a;
+  white-space: nowrap;
+}
+.complemento-chip-remove {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.8rem;
+  color: #888;
+  padding: 0 2px;
+  line-height: 1;
+}
+.complemento-chip-remove:hover {
+  color: #c62828;
 }

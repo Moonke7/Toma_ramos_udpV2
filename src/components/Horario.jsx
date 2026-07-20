@@ -1,7 +1,10 @@
 import Card from "./Card";
+import mergeComplementos from "@/functions/mergeComplementos";
 import '@/styles/horario.css';
 
-const Horario = ({ horario, catedraColor, ayudantiaColor, labColor }) => {
+const Horario = ({ horario, complementos = [], catedraColor, ayudantiaColor, labColor }) => {
+  const horarioFinal = mergeComplementos(horario, complementos);
+
   const bloques = {
     "08:30 - 09:50": "A",
     "10:00 - 11:20": "B",
@@ -13,12 +16,12 @@ const Horario = ({ horario, catedraColor, ayudantiaColor, labColor }) => {
     "18:50 - 20:10": "H",
     "20:15 - 21:35": "I",
   };
-  const bloqueA = Object.values(horario).map((d) => d.A);
+  const bloqueA = Object.values(horarioFinal).map((d) => d.A);
   if (bloqueA.every((x) => !x)) {
     delete bloques["08:30 - 09:50"];
   }
-  const bloqueH = Object.values(horario).map((d) => d.H);
-  const bloqueI = Object.values(horario).map((d) => d.I);
+  const bloqueH = Object.values(horarioFinal).map((d) => d.H);
+  const bloqueI = Object.values(horarioFinal).map((d) => d.I);
   if (bloqueH.every((x) => !x)) {
     delete bloques["18:50 - 20:10"];
     if (bloqueI.every((x) => !x)) {
@@ -44,28 +47,28 @@ const Horario = ({ horario, catedraColor, ayudantiaColor, labColor }) => {
             <tr className="table-secondary" key={bloques[b]}>
               <th>{b}</th>
               <Card
-                info={horario["LU"][bloques[b]]}
+                info={horarioFinal["LU"][bloques[b]]}
                 bloque={["LU", bloques[b]]}
                 catedraColor={catedraColor}
                 ayudantiaColor={ayudantiaColor}
                 labColor={labColor}
               />
               <Card
-                info={horario["MA"][bloques[b]]}
+                info={horarioFinal["MA"][bloques[b]]}
                 bloque={["MA", bloques[b]]}
                 catedraColor={catedraColor}
                 ayudantiaColor={ayudantiaColor}
                 labColor={labColor}
               />
               <Card
-                info={horario["MI"][bloques[b]]}
+                info={horarioFinal["MI"][bloques[b]]}
                 bloque={["MI", bloques[b]]}
                 catedraColor={catedraColor}
                 ayudantiaColor={ayudantiaColor}
                 labColor={labColor}
               />
               <Card
-                info={horario["JU"][bloques[b]]}
+                info={horarioFinal["JU"][bloques[b]]}
                 bloque={["JU", bloques[b]]}
                 catedraColor={catedraColor}
                 ayudantiaColor={ayudantiaColor}
@@ -73,7 +76,7 @@ const Horario = ({ horario, catedraColor, ayudantiaColor, labColor }) => {
               />
 
               <Card
-                info={horario["VI"][bloques[b]]}
+                info={horarioFinal["VI"][bloques[b]]}
                 bloque={["VI", bloques[b]]}
                 catedraColor={catedraColor}
                 ayudantiaColor={ayudantiaColor}

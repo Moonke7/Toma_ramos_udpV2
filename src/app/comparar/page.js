@@ -49,6 +49,7 @@ function Comparar() {
           key={index}
           secciones={horario.secciones}
           horario={horario.horario}
+          complementos={horario.complementos || []}
           catedraColor={catedraColor}
           ayudantiaColor={ayudantiaColor}
           labColor={labColor}

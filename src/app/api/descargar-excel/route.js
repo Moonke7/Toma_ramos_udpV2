@@ -2,8 +2,27 @@
 import { NextResponse } from "next/server";
 import ExcelJS from "exceljs";
 
+function mergeComplementos(horario, complementos) {
+  if (!complementos || complementos.length === 0) return horario;
+  const merged = {};
+  const DIAS = ["LU", "MA", "MI", "JU", "VI"];
+  for (const dia of DIAS) {
+    merged[dia] = { ...(horario?.[dia] || {}) };
+  }
+  for (const comp of complementos) {
+    for (const h of comp.horarios) {
+      const [dia, bloque] = h;
+      if (!dia || !bloque) continue;
+      if (merged[dia][bloque]) continue;
+      merged[dia][bloque] = comp;
+    }
+  }
+  return merged;
+}
+
 export async function POST(req) {
-  const { horario, colorCatedra, colorAyudantia, colorLab } = await req.json();
+  const { horario, complementos = [], colorCatedra, colorAyudantia, colorLab } = await req.json();
+  const horarioFinal = mergeComplementos(horario, complementos);
 
   const workbook = new ExcelJS.Workbook();
   const worksheet = workbook.addWorksheet("Horario");
@@ -32,7 +51,7 @@ export async function POST(req) {
     const fila = [hora];
 
     diasAbrev.forEach((dia) => {
-      const cellData = horario[dia]?.[bloqueKey];
+      const cellData = horarioFinal[dia]?.[bloqueKey];
 
       if (cellData) {
         const tipoClase =
@@ -52,7 +71,7 @@ export async function POST(req) {
 
     // Aplicar colores
     diasAbrev.forEach((dia, diaIndex) => {
-      const cellData = horario[dia]?.[bloqueKey];
+      const cellData = horarioFinal[dia]?.[bloqueKey];
       const colIndex = diaIndex + 2; // columna real en Excel (1-based)
 
       const excelCell = worksheet.getCell(filaIndex, colIndex);
