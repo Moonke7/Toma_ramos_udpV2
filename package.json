@@ -6,7 +6,11 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "parse:informatica": "python src/scripts/convertir_ofertas.py informatica",
+    "parse:industria": "python src/scripts/convertir_ofertas.py industrias",
+    "parse:cfg": "python src/scripts/convertir_ofertas.py cfg",
+    "parse:all": "python src/scripts/convertir_ofertas.py --all"
   },
   "dependencies": {
     "exceljs": "^4.4.0",

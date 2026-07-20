@@ -2,14 +2,26 @@
 
 import { useState, useEffect } from "react";
 
-import informatica from "../data/informatica.json";
-import industrias from "../data/industrias.json";
-import cfg from "../data/cfg.json";
-
-const ramosTotales = { ...informatica, ...industrias, ...cfg };
 const useRamos = () => {
   const [ramos, setRamos] = useState({});
+  const [ramosTotales, setRamosTotales] = useState({});
+
   useEffect(() => {
+    const loadAll = async () => {
+      let combined = {};
+      for (const file of ["informatica", "industrias", "cfg"]) {
+        try {
+          const mod = await import(`../data/${file}.json`);
+          combined = { ...combined, ...mod.default };
+        } catch { /* archivo no encontrado, se omite */ }
+      }
+      setRamosTotales(combined);
+    };
+    loadAll();
+  }, []);
+
+  useEffect(() => {
+    if (Object.keys(ramosTotales).length === 0) return;
     let opcionesRamos = Object.keys(ramosTotales);
     opcionesRamos = opcionesRamos.map((p) => [p, ramosTotales[p][0].nombre]);
     const ramosSegunTematica = {
@@ -37,7 +49,7 @@ const useRamos = () => {
       }
     });
     setRamos(ramosSegunTematica);
-  }, []);
+  }, [ramosTotales]);
   return [ramos, setRamos, ramosTotales];
 };
 export default useRamos;
