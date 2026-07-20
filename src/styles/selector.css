@@ -20,7 +20,6 @@ body {
 }
 
 .container div {
-  display: flex;
   align-items: center;
 }
 
@@ -37,12 +36,80 @@ body {
   align-items: center;
   position: relative;
   gap: 16px;
-  height: 24px;
+  width: 100%;
 }
-.RamoSelector select {
-  border-radius: 8px;
-  padding: 8px;
+
+.selector-wrapper {
+  flex: 1;
+  position: relative;
+  display: block;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 10px 14px;
   border: solid 2px #283f64;
+  border-radius: 8px;
+  font-size: 1em;
+  background-color: #fff;
+  color: #21304a;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.searchInput:focus {
+  border-color: #2c4978;
+}
+
+.dropdown {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  max-height: 320px;
+  overflow-y: auto;
+  background-color: #fff;
+  border: solid 2px #283f64;
+  border-radius: 8px;
+  z-index: 100;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  display: block;
+}
+
+.dropdown-group {
+  display: block;
+}
+
+.dropdown-group-header {
+  padding: 8px 14px;
+  font-weight: bold;
+  color: #2c4978;
+  background-color: #e8ecf6;
+  position: sticky;
+  top: 0;
+  font-size: 0.82em;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  display: block;
+}
+
+.dropdown-item {
+  padding: 10px 14px;
+  cursor: pointer;
+  transition: background-color 0.1s ease;
+  font-size: 0.95em;
+  color: #21304a;
+  display: block;
+}
+
+.dropdown-item.highlighted {
+  background-color: #d5deeb;
+}
+
+.dropdown-item.disabled {
+  color: #bbb;
+  cursor: not-allowed;
+  background-color: #fafafa;
 }
 .deleteButton {
   height: 34px;
@@ -54,14 +121,6 @@ body {
   transition: 0.2s ease;
 }
 
-select{
-  background-color: #fff;
-  color: #21304a;
-  font-size: 1em;
-  border: solid 2px #283f64;
-  padding: 8px;
-  border-radius: 8px;
-}
 /* ---------------------- Button -------------------- */
 button {
   background-color: #fff;
@@ -104,4 +163,58 @@ button {
 .generate:hover {
   transition: .2s ease;
   background-color: #21304a;
+}
+
+.generate:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* ---------------------- Malla Selectors -------------------- */
+.malla-selectors {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  width: 100%;
+  align-items: flex-end;
+}
+
+.malla-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+  flex: 1;
+}
+
+.malla-field label {
+  font-size: 0.85em;
+  font-weight: 600;
+  color: #21304a;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.malla-field select {
+  width: 100%;
+  padding: 10px 14px;
+  border: solid 2px #283f64;
+  border-radius: 8px;
+  font-size: 1em;
+  background-color: #fff;
+  color: #21304a;
+  outline: none;
+  cursor: pointer;
+  appearance: auto;
+}
+
+.malla-field select:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.malla-hint {
+  font-size: 0.9em;
+  color: #666;
+  text-align: center;
 }

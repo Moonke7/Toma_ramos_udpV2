@@ -1,0 +1,12 @@
+{
+  "I SEMESTRE": ["CBM1000", "CBM1001", "CBQ1000", "CIT1000", "FIC1000"],
+  "II SEMESTRE": ["CBM1002", "CBM1003", "CBF1000", "CIT1010", "Curso de Formación General"],
+  "III SEMESTRE": ["CBM1005", "CBM1006", "CBF1001", "CII1000", "Curso de Formación General"],
+  "IV SEMESTRE": ["CBE2000", "CII2250", "CBF1002", "CII2100", "Curso de Formación General"],
+  "V SEMESTRE": ["CII2751", "CII2401", "CII2750", "CII1001", "Curso de Formación General"],
+  "VI SEMESTRE": ["CII2501", "CII2402", "CII2755", "CII2101", "CII2002"],
+  "VII SEMESTRE": ["CII2756", "CII2403", "CII2253", "CII2102", "CII2003"],
+  "VIII SEMESTRE": ["CII2504", "CII2757", "CII2254", "CII2103", "CII2004"],
+  "IX SEMESTRE": ["Electivo Profesional", "Electivo Profesional", "Electivo Profesional", "Electivo Profesional", "CII3101"],
+  "X SEMESTRE": ["Electivo Profesional", "Electivo Profesional", "Electivo Profesional", "Electivo Profesional", "CII3102"]
+}

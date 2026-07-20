@@ -1,0 +1,12 @@
+{
+  "I SEMESTRE": ["CBM1100", "CBM1101", "CBQ1100", "CIT1100", "FIC1100"],
+  "II SEMESTRE": ["CBM1102", "CBM1103", "CBF1100", "CIT1110", "Curso de Formación General"],
+  "III SEMESTRE": ["CBM1005", "CBM1006", "CBF1001", "CIT2006", "CIT2114"],
+  "IV SEMESTRE": ["CIT2204", "CIT2107", "CBF1002", "CIT2007", "CIT2008", "CIG1001"],
+  "V SEMESTRE": ["CII2750", "CIT2108", "CIT2205", "CIT2009", "Curso de Formación General", "CIG1002"],
+  "VI SEMESTRE": ["CII1000", "CIT2109", "CIT2110", "CIT2010", "Curso de Formación General", "CIG1003"],
+  "VII SEMESTRE": ["CIT2206", "CIT2011", "CIT2111", "CIT2012", "Curso de Formación General"],
+  "VIII SEMESTRE": ["CII2100", "CIT2112", "CIT2113", "CIT2013", "CIT2207"],
+  "IX SEMESTRE": ["Electivo Profesional", "CIT3100", "Electivo Profesional", "CIT3000", "CIT3202"],
+  "X SEMESTRE": ["Electivo Profesional", "Electivo Profesional", "Electivo Profesional", "Electivo Profesional", "CIT3203", "Opción de articulación con Magíster en Ciencias de la Ingeniería"]
+}
