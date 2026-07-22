@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, useRef } from "react";
 import Link from "next/link";
 
 import Horario from "@/components/Horario";
@@ -22,6 +22,9 @@ const Horarios = () => {
   let [ramos, setRamos] = useState([]);
   const [combinacionActual, setCombinacionActual] = useState(0);
   const [combinaciones, setCombinaciones] = useState([]);
+  const [pinnedSections, setPinnedSections] = useState({});
+  const [allCombinaciones, setAllCombinaciones] = useState([]);
+  const lastViewedPaquetesRef = useRef(null);
   const [catedraColor, setCatedraColor] = useState("#faf6f2");
   const [ayudantiaColor, setAyudantiaColor] = useState("#f3f0ff");
   const [labColor, setLabColor] = useState("#ebf8ff");
@@ -36,10 +39,48 @@ const Horarios = () => {
     ramos = setRamos(JSON.parse(window.localStorage.getItem("ramos")));
   }, []);
   useEffect(() => {
-    setCombinaciones(
-      ordenarHorariosSegunVentanas(generarHorarios(ramos?.filter((x) => x)))
-    );
+    const all = ordenarHorariosSegunVentanas(generarHorarios(ramos?.filter((x) => x)));
+    setAllCombinaciones(all);
+    setCombinaciones(all);
+    setCombinacionActual(0);
+    setPinnedSections({});
   }, [ramos]);
+
+  useEffect(() => {
+    if (combinaciones[combinacionActual]) {
+      lastViewedPaquetesRef.current = combinaciones[combinacionActual].secciones.map(s => s.paquete).join(',');
+    }
+  }, [combinacionActual, combinaciones]);
+
+  const togglePin = useCallback((seccion) => {
+    setPinnedSections(prev => {
+      const next = { ...prev };
+      if (next[seccion.id_ramo] === seccion.paquete) {
+        delete next[seccion.id_ramo];
+      } else {
+        next[seccion.id_ramo] = seccion.paquete;
+      }
+      return next;
+    });
+  }, []);
+
+  useEffect(() => {
+    if (allCombinaciones.length === 0) return;
+    const filtered = allCombinaciones.filter(c => {
+      return c.secciones.every(s => !pinnedSections[s.id_ramo] || pinnedSections[s.id_ramo] === s.paquete);
+    });
+    
+    let nextIndex = 0;
+    if (lastViewedPaquetesRef.current) {
+      const idx = filtered.findIndex(c => c.secciones.map(s => s.paquete).join(',') === lastViewedPaquetesRef.current);
+      if (idx !== -1) {
+        nextIndex = idx;
+      }
+    }
+    
+    setCombinaciones(filtered);
+    setCombinacionActual(nextIndex);
+  }, [pinnedSections, allCombinaciones]);
 
   useEffect(() => {
     setComplementos([]);
@@ -398,6 +439,8 @@ const Horarios = () => {
                 handleCombinationChange={combinationChange}
                 combinacionActual={combinacionActual}
                 index={index}
+                isPinned={pinnedSections[s.id_ramo] === s.paquete}
+                togglePin={() => togglePin(s)}
               />
             ))}
           </div>

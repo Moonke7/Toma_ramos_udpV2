@@ -7,7 +7,9 @@ const InfoSeccion = ({
   secciones,
   handleCombinationChange,
   combinacionActual,
-  index
+  index,
+  isPinned,
+  togglePin
 }) => {
   const combinacionesPosibles = getOtrasSecciones(
     combinaciones,
@@ -25,7 +27,23 @@ const InfoSeccion = ({
       style={{ borderRadius: index === 0 ? "16px 8px 0 0" : "0", borderTop: index > 0 ? "none" : "" }}
     >
       <div className="d-flex w-100 justify-content-between">
-        <h5 className="mb-1">{seccion.nombre}</h5>
+        <h5 className="mb-1" style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+          {seccion.nombre}
+          <button 
+            type="button" 
+            onClick={togglePin} 
+            title={isPinned ? "Desbloquear sección" : "Bloquear sección"}
+            style={{
+              background: 'none',
+              border: 'none',
+              cursor: 'pointer',
+              color: isPinned ? '#28a745' : '#6c757d',
+              padding: 0
+            }}
+          >
+            <i className={`fas ${isPinned ? 'fa-lock' : 'fa-unlock'}`}></i>
+          </button>
+        </h5>
         <span>
           {/* <small className="me-2">{seccion.seccion}</small> */}
           <select
